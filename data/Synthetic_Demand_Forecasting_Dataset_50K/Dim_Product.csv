@@ -1,0 +1,26 @@
+Product_ID,Product_Name,Category,Brand,Product_Tier,Base_Price,Unit_Cost,Supplier_ID
+P001,Product_01,Grocery,Zenora,Premium,794.07,624.03,S109
+P002,Product_02,Personal Care,Solaris,Value,1956.12,1005.78,S110
+P003,Product_03,Sports,Kairo,Value,3902.32,2124.79,S112
+P004,Product_04,Home Appliances,Veloxa,Standard,15518.66,10136.94,S103
+P005,Product_05,Electronics,Kairo,Standard,8488.87,6785.29,S108
+P006,Product_06,Grocery,Veloxa,Premium,678.93,541.15,S111
+P007,Product_07,Personal Care,Veloxa,Premium,894.32,420.34,S101
+P008,Product_08,Sports,Veloxa,Value,5298.29,3122.66,S112
+P009,Product_09,Home Appliances,Solaris,Standard,9186.44,6029.49,S103
+P010,Product_10,Electronics,Nimbus,Value,19641.99,14284.23,S109
+P011,Product_11,Grocery,Zenora,Standard,1024.31,788.75,S104
+P012,Product_12,Personal Care,Trident,Premium,2678.94,1227.28,S104
+P013,Product_13,Sports,Solaris,Standard,2548.14,1335.2,S101
+P014,Product_14,Home Appliances,Kairo,Premium,17300.29,11844.12,S110
+P015,Product_15,Electronics,Kairo,Standard,28180.91,20199.39,S102
+P016,Product_16,Grocery,Zenora,Standard,644.65,487.69,S110
+P017,Product_17,Personal Care,Solaris,Standard,1495.55,723.67,S104
+P018,Product_18,Sports,Kairo,Value,3820.3,2008.53,S105
+P019,Product_19,Home Appliances,Trident,Premium,9457.7,5740.79,S104
+P020,Product_20,Electronics,Nimbus,Value,25451.8,19517.55,S110
+P021,Product_21,Grocery,Kairo,Standard,576.71,450.64,S103
+P022,Product_22,Personal Care,Solaris,Value,362.09,184.07,S106
+P023,Product_23,Sports,Veloxa,Value,4206.27,2180.01,S109
+P024,Product_24,Home Appliances,Solaris,Standard,9334.3,5938.31,S108
+P025,Product_25,Electronics,Veloxa,Standard,9418.35,6726.21,S112
