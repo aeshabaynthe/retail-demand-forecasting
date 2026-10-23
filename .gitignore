@@ -1,26 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
 
-# Environment variables and secrets
-.env
-.env.*
-!.env.example
-
-# Python virtual environments
+# Environments & Virtual Envs
 .venv/
 venv/
 env/
+ENV/
+env.bak/
+venv.bak/
+anaconda3/
 
-# Python cache
-__pycache__/
-*.py[cod]
+# VS Code & IDE Configurations
+.vscode/
+.idea/
+*.swp
+*.swo
 
-# Jupyter temporary files
+# Environment Variables & Secrets
+.env
+*.env
+
+# Large Model Artifacts & Persistent Data
+# Note: Uncomment the line below if you do NOT want to track .joblib binaries in git
+# models/*.joblib
+
+# Database Files & Dumps
+*.sqlite3
+*.db
+
+# Jupyter Notebook Checkpoints
 .ipynb_checkpoints/
+*/.ipynb_checkpoints/*
 
-# Logs and temporary files
+# Logs & OS Specific
 *.log
-*.tmp
-
-# Operating system files
 .DS_Store
 Thumbs.db
-desktop.ini
